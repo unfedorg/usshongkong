@@ -1,0 +1,11 @@
+title: U.S.S. Hong Kong
+description: Star Trek Fan Group in Hong Kong
+baseurl: "" 
+url: "https://usshongkong.org"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .vscode/
+  - .git/
+  - .jekyll-cache/
+  - vendor/
